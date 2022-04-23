@@ -54,7 +54,8 @@
             justify-content: center;
             background-color: rgb(31, 30, 30);
             width:auto;
-            height: 50vh;
+            height:100%;
+            margin-top:15%
         }
         #menu-1{
             width: 35px;
